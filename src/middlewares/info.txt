@@ -1,0 +1,1 @@
+This folder contains all the functions eacht time we visit a route
